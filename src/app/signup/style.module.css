@@ -1,0 +1,15 @@
+.sec{
+    min-height: 90vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contentBody{
+    display: flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: inherit;
+};
